@@ -6,7 +6,9 @@
 
 The osu!team may (at their discretion), provide a community-run tournament with a *profile badge*, a special reward that is visible on a player's profile.
 
-These badges typically display a player's skill and prowess in tournament play, and are thus regulated to ensure that they retain their worth and value.
+These badges typically display a player's skill and prowess in tournament play, and are thus regulated to ensure that they retain their worth and value. 
+
+Profile badges are permanent. This means that any rightfully won badges will not be removed from your profile even at your own request.
 
 ### Criteria for Applicable Tournaments
 
@@ -76,7 +78,7 @@ If your tournament meets the criteria listed above, and you have a design ready 
 
 Please allow at **least** a week for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
 
-If your request is approved, you may then submit a list of applicable recipients at the conclusion of your tournament, along with the finalized badge design.
+At the conclusion of your tournament you may submit a list of applicable recipients, along with all of the MP links of the winning team's matches. Your tournament will then be evaluated and based on professionality, quality and effort put into the tournament it may be granted a badge prize.
 
 **We reserve the right to withdraw this service should issues arise during the course of a tournament.**
 
